@@ -18,12 +18,13 @@
     "url": "git+https://JohnLeSked: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@github.com/JohnLeSked/monorepo-sample.git"
   },
   "scripts": {
-    "test": "echo \"Error: run tests from root\" && exit 1"
+    "test": "echo Run test for package 3"
   },
   "bugs": {
     "url": "https://github.com/JohnLeSked/monorepo-sample/issues"
   },
   "dependencies": {
-    "@monorepo/package_1": "^1.0.0"
+    "@monorepo/package_1": "^1.0.0",
+    "lodash": "^4.17.21"
   }
 }
