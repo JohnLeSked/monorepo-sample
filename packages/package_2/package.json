@@ -1,6 +1,6 @@
 {
   "name": "@monorepo/package_2",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "John Le <nguyenlt_dev@yahoo.com>",
   "homepage": "https://github.com/JohnLeSked/monorepo-sample#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/JohnLeSked/monorepo-sample/issues"
   },
   "dependencies": {
-    "@monorepo/package_1": "1.0.0"
+    "@monorepo/package_1": "^1.0.0"
   }
 }
